@@ -1,18 +1,30 @@
-## Olá, sou Valéria Rodrigues 👩🏽‍💻
+# Olá, sou a Valéria Rodrigues 👩🏽‍💻
 
 - 🚀 Graduanda em Computação Licenciatura pela Universidade Federal Rural da Amazônia (2021)
 - 🔭 Interesse pelas áreas da educação e tecnologia da informação
-- 🧠 Fascinada em inteligência artificial
+- 🧠 Fascinada em Inteligência Artificial (IA) | Machine Learning (ML) | Deep Learning (DL)
 - ♟️ Programadora Junior em desenvolvimento de software e jogos educativos
-- 🏳️‍🌈 Pronomes: Ela/Dela
+
+
+
+## Status
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=vRodrigues22&theme=radical">
+</p> 
+<p align="center">
+<img height="250%" width="70%" src="https://github-readme-stats.vercel.app/api?username=vRodrigues22&show_icons=true&theme=radical">
+</p> 
+<p align="center">
 
 <div align="center">
 <a href="https://github.com/vRodrigues22">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vRodrigues22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vRodrigues22&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  
-##
+
+
+### Tecnologias
+<!-- Editar links das tecnologias usadas-->
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Dev-CSS" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
@@ -26,8 +38,10 @@
 <img align="center" alt="Dev-HTML" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg">
 <img align="center" alt="Dev-HTML" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg">
 </div>
+
+
   
-##
+### Redes Sociais
 <!-- Editar links das redes sociais-->
 
 <div>
