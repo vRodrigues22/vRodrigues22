@@ -27,6 +27,8 @@
 <!-- Editar links das tecnologias usadas-->
 
 <div style="display: inline_block"><br>
+<img align="center"alt="Html5"src="https://skillicons.dev/icons?i=html"/>
+<img align="center"alt="CSS3"src="https://skillicons.dev/icons?i=css"/>
 <img align="center" alt="Dev-CSS" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
 <img align="center" alt="Dev-Js" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
 <img align="center" alt="Dev-React" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
@@ -55,6 +57,7 @@
 <!-- ![Snake animation](https://github.com/vRodrigues22/vRodrigues22/blob/output/github-contribution-grid-snake.svg) -->
 <!--https://github.com/vRodrigies22/vRodrigues22/blob/output/github-contribution-grid-snake.svg
 -->
+[Snake animation](https://github.com/vRodrigues22/vRodrigues22/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
