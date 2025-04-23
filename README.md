@@ -1,8 +1,9 @@
 # Olá, sou a Valéria Rodrigues 👩🏽‍💻
 
-- 🚀 Graduanda em Computação Licenciatura pela Universidade Federal Rural da Amazônia (UFRA) — desde 2021
+- 🚀 Mestranda em Ciência da Computação pela Programa de Pós-Graduação em Ciência da Computação — PPGCC na Universidade Federal do Pará — UFPA (2025)
+- 🎓 Graduada em Computação Licenciatura pela Universidade Federal Rural da Amazônia — UFRA (2021)
 - 🔭 Interesse pelas áreas de educação e tecnologia da informação
-- 🧠 Fascinada por Inteligência Artificial (IA) | Machine Learning (ML) | Deep Learning (DL)
+- 🧠 Linha de Pesquisa: Inteligência Artificial (IA) | Machine Learning (ML) | Deep Learning (DL) | Ciência de Dados
 - ♟️ Programadora Júnior em desenvolvimento de software e jogos educativos
 
 ---
