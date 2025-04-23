@@ -55,4 +55,4 @@
 
 ## 🐍 Snake animation
 
-![Snake animation](https://github.com/vRodrigues22/vRodrigues22/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/vRodrigues22/vRodrigues22/output/github-contribution-grid-snake.svg)
