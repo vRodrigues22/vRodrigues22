@@ -53,7 +53,6 @@
 
 ---
 
-## 🐍 Snake animation
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/vRodrigues22/vRodrigues22/output/snake.svg" alt="Snake animation" />
