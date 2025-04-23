@@ -3,7 +3,7 @@
 - 🚀 Mestranda em Ciência da Computação pelo Programa de Pós-Graduação em Ciência da Computação — PPGCC na Universidade Federal do Pará — UFPA (2025)
 - 🎓 Graduada em Computação Licenciatura pela Universidade Federal Rural da Amazônia — UFRA (2021)
 - 🔭 Interesse pelas áreas de educação e tecnologia da informação
-- 🧠 Linha de Pesquisa: Inteligência Artificial (IA) | Machine Learning (ML) | Deep Learning (DL) | Ciência de Dados
+- 🧠 Linha de Pesquisa: `Inteligência Artificial (IA)` | `Machine Learning (ML)` | `Deep Learning (DL)` | `Ciência de Dados`
 - ♟️ Programadora Júnior em desenvolvimento de software e jogos educativos
 
 ---
