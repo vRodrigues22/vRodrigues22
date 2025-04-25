@@ -22,6 +22,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vRodrigues22&layout=compact&langs_count=7&theme=dracula" alt="Top Langs">
 </p>
 
+
+[![Conquista Microsoft Learn](https://learn.microsoft.com/api/achievements/share/pt-br/ValriaOliveiraRodrigues-4592/HXSVEZ48/image?sharingId=D92BBB61ECA78FA6)](https://learn.microsoft.com/api/achievements/share/pt-br/ValriaOliveiraRodrigues-4592/HXSVEZ48?sharingId=D92BBB61ECA78FA6)
+
 ---
 
 ## 🚀 Tecnologias
