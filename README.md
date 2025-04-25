@@ -30,6 +30,8 @@
   <img src="https://skillicons.dev/icons?i=html,css,java,javascript,python,c,csharp,nodejs,mysql,django,vscode,androidstudio" />
 </div>
 
+
+
 ---
 
 ## 🌐 Redes Sociais
