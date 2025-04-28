@@ -1,13 +1,15 @@
 # Olá, sou a Valéria Rodrigues 👩🏽‍💻
 
+<img align="right" alt="PC GIF" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzIt61YLZ22Qr8qxNgV-9NUeU2etuuT_CpvHCi08O1tZTbnmyYgkAL7tIq-jwqijxBZqYBvMDkjE6xdVhVPX4l0vE6f0Fi2-NpI7Hc3Zb2fjA6oXh8i-ZpOifSX4TIAqS_81YGuTS2OH8/s1600/ScottBrundage_AdaLovelaceDay_rev.gif" width="190" />
+
 - 🚀 Mestranda em Ciência da Computação pelo Programa de Pós-Graduação em Ciência da Computação — PPGCC na Universidade Federal do Pará — UFPA (2025)
 - 🎓 Graduada em Computação Licenciatura pela Universidade Federal Rural da Amazônia — UFRA (2021)
-- 🔭 Interesse pelas áreas de educação e tecnologia da informação
-- 🧠 Linha de Pesquisa: `Inteligência Artificial (IA)` | `Machine Learning (ML)` | `Deep Learning (DL)` | `Ciência de Dados`
-- ♟️ Programadora Júnior em desenvolvimento de software e jogos educativos
+- 🔭 Interesse pelas áreas de Educação e Tecnologia da Informação
+- 🧠 Linha de Pesquisa: `Inteligência Artificial (IA)` `Machine Learning (ML)` `Ciência de Dados` e `Inclusão Digital`
+- ♟️ Programadora Jr. em desenvolvimento de software e jogos educativos.
+- 📚 *"Meu cérebro é mais do que algo meramente mortal, e o tempo mostrará isso."* - Ada Lovelace
 
 ---
-
 ## 📊 Status no GitHub
 
 <p align="center">
@@ -22,8 +24,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vRodrigues22&layout=compact&langs_count=7&theme=dracula" alt="Top Langs">
 </p>
 
-
-[![Conquista Microsoft Learn](https://learn.microsoft.com/api/achievements/share/pt-br/ValriaOliveiraRodrigues-4592/HXSVEZ48/image?sharingId=D92BBB61ECA78FA6)](https://learn.microsoft.com/api/achievements/share/pt-br/ValriaOliveiraRodrigues-4592/HXSVEZ48?sharingId=D92BBB61ECA78FA6)
 
 ---
 
