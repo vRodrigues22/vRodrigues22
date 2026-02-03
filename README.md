@@ -6,7 +6,6 @@
 - 🎓 Graduada em Computação Licenciatura pela Universidade Federal Rural da Amazônia — UFRA (2021)
 - 🔭 Interesse pelas áreas de Educação e Tecnologia da Informação
 - 🧠 Linha de Pesquisa: `Inteligência Artificial (IA)` `Machine Learning (ML)` `Ciência de Dados` `Inclusão Digital`
-- ♟️ Programadora Jr. em desenvolvimento de software e jogos educativos.
 - 📚 *"Meu cérebro é mais do que algo meramente mortal, e o tempo mostrará isso."* - Ada Lovelace
 
 ---
