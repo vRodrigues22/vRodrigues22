@@ -29,7 +29,7 @@
 ## 🚀 Tecnologias
 
 <div style="display: inline_block">
-  <img src="https://skillicons.dev/icons?i=html,css,java,javascript,python,c,csharp,nodejs,mysql,django,vscode,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=html,css,java,javascript,python,nodejs,mysql,django,vscode,androidstudio" />
 </div>
 
 
